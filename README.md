@@ -3,7 +3,7 @@
 This project presents an interactive Sales Performance Dashboard built using Power BI to analyze business performance across products, categories, and time periods. The dashboard helps track sales growth, product profitability, and customer purchasing patterns using multiple KPIs and visual insights.
 
 📥 Downoload The Dataset Here
-< a href="https://github.com/Edasamatha/PowerBI-project/blob/main/Salesdataset.xls">Dataset</a>
+   - <a href="https://github.com/Edasamatha/PowerBI-project/blob/main/Salesdataset.xls">Dataset</a>
 
 🎯 Objectives
 
