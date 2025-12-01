@@ -23,13 +23,13 @@ Year-over-year comparison
 
 Four major performance indicators are displayed:
 
-Total Sales: 120M
-
-Total Orders: 1000
-
-Average Order Value: 119.70K
-
-Total Quantity Sold: 4013
+  Total Sales: 120M
+  
+  Total Orders: 1000
+  
+  Average Order Value: 119.70K
+  
+  Total Quantity Sold: 4013
 
 These KPIs summarize the overall business health at a glance.
 
@@ -38,23 +38,23 @@ These KPIs summarize the overall business health at a glance.
 Shows the performance of each category—Clothing, Electronics, Furniture, Grocery, Sports—across 2023 and 2024.
 This helps identify:
 
-Growth patterns
-
-Category-wise contribution
-
-Year-over-year shifts
+  Growth patterns
+  
+  Category-wise contribution
+  
+  Year-over-year shifts
 
 3. Sales by Month (Line Chart)
 
 A month-wise breakdown of total sales helps identify:
 
-Peak months
-
-Seasonal trends
-
-Low-performing periods
-
-Monthly fluctuations
+  Peak months
+  
+  Seasonal trends
+  
+  Low-performing periods
+  
+  Monthly fluctuations
 
 4. Total Sales by Product (Bar Chart)
 
