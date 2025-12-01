@@ -91,7 +91,7 @@ This project presents an interactive Sales Performance Dashboard built using Pow
 
 Click Here To Download DashBoard  Dashboard file
 
-https://github.com/Edasamatha/PowerBI-project/blob/main/salesanalysis.pbix
+  - <a href=" https://github.com/Edasamatha/PowerBI-project/blob/main/salesanalysis.pbix">View Dashboard File>/a>
 
 
 
